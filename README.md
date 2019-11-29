@@ -1,6 +1,7 @@
 # Text parser
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 This website do Analyzed operations on your given text of your choice(django backend)
 
 It is a simple Django project or a website in which we can analyze text
