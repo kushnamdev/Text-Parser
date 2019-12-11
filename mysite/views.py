@@ -73,7 +73,7 @@ def analyze(request):
         for char in djtext:
 
 
-            analyzed = analyzed + char.title()
+            analyzed = analyzed + djtext.title()
 
 
         params = {'purpose': 'Changed to Titlecase', 'analyzed_text': analyzed}
@@ -86,7 +86,7 @@ def analyze(request):
             if not (djtext[Index] == " " and djtext[Index + 1] == " "):
                 analyzed = analyzed + char
 
-        params = {'purpose': 'Removed NewLines', 'analyzed_text': analyzed}
+        params = {'Extraspaces Removed', 'analyzed_text': analyzed}
 
 
     if removepunc != 'on' and fullcaps != 'on' and extraspaceremover != 'on' and lowercase!= 'on' and titlecase!= 'on' and charcount!= 'on':
