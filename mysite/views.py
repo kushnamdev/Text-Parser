@@ -21,7 +21,7 @@ def analyze(request):
     #Check Checkbox Values
     removepunc = request.POST.get('removepunc', 'off')
     fullcaps = request.POST.get('fullcaps', 'off')
-    titlecase = request.POST.get('camelcase', 'off')
+    titlecase = request.POST.get('titlecase', 'off')
     extraspaceremover = request.POST.get('extraspaceremover', 'off')
     charcount = request.POST.get('charcount', 'off')
     lowercase = request.POST.get('lowercase', 'off')
