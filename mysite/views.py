@@ -86,7 +86,7 @@ def analyze(request):
             if not (djtext[Index] == " " and djtext[Index + 1] == " "):
                 analyzed = analyzed + char
 
-        params = {'Extraspaces Removed', 'analyzed_text': analyzed}
+        params = {'purpose' :Extraspaces Removed', 'analyzed_text': analyzed}
 
 
     if removepunc != 'on' and fullcaps != 'on' and extraspaceremover != 'on' and lowercase!= 'on' and titlecase!= 'on' and charcount!= 'on':
