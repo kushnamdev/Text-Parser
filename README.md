@@ -24,10 +24,10 @@ It is a simple Django project or a website in which we can analyze text
 
 <h1>About Author</h1>
 <p style="font-family:courier;">
-This project/website is made by <strong>Kush Namdev</strong> ,who is an passionate coder ,pythonista ,and a chess lover.<br>
-He is 16. He loves to code ,develop apps ,and make Powerful websites.<br>
-Although he is a beginner, he loves to learn anything at anytime .<br>
-<strong><a href="https://github.com/kushnamdev/">His github account</a></strong><br>
+This project/website is made by <strong>Me</strong> ,I love coding and chess<br>
+I am 18 .I love to code ,develop apps ,and make Powerful websites.<br>
+I love to learn new things<br>
+<strong><a href="https://github.com/kushnamdev/">My Github account</a></strong><br>
 <strong><button><a href="https://kush23.pythonanywhere.com">Text parser</a></button></strong><br>
 </P>
 <p>Learned from CodeWithharry ❤❤🔥🔥</p>
