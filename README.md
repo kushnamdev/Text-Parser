@@ -30,4 +30,4 @@ I love to learn new things<br>
 <strong><a href="https://github.com/kushnamdev/">My Github account</a></strong><br>
 <strong><button><a href="https://kush23.pythonanywhere.com">Text parser</a></button></strong><br>
 </P>
-<p>Learned from CodeWithharry ❤❤🔥🔥</p>
+<p>Special thanks to CodeWithharry ❤❤🔥🔥</p>
