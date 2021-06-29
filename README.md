@@ -28,6 +28,6 @@ This project/website is made by <strong>Kush Namdev</strong> ,who is an passiona
 He is 16. He loves to code ,develop apps ,and make Powerful websites.<br>
 Although he is a beginner, he loves to learn anything at anytime .<br>
 <strong><a href="https://github.com/kushnamdev/">His github account</a></strong><br>
-<strong><button><a href="https://kushnamdev.github.io/textparser/">Text parser</a></button></strong><br>
+<strong><button><a href="https://kush23.pythonanywhere.com">Text parser</a></button></strong><br>
 </P>
 <p>Learned from CodeWithharry ❤❤🔥🔥</p>
